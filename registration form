@@ -1,0 +1,15 @@
+<form>
+<div>
+    <label for="RegistrationForm">RegistrationForm</label><br>
+    <label for="EnterEmail">EnterEmail</label>
+    <input type="EnterEmail"placeholder="EnterEmail"><br>
+    <label for="EnterPassword">EnterPassword</label>
+    <input type="EnterPassword"placeholder="EnterPassword"><br>
+    <label for="EnterConfirmPassword">EnterConfirmPassword</label>
+    <input type="EnterConfirmPassword"placeholder="EnterConfirmPassword">
+    <p for="Please confirm the terms & conditions apply">Please confirm the terms & conditions apply
+    </p>
+    <input for="button">
+    <label for="Submit"></label>
+</div>
+</form>
